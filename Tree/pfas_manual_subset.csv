@@ -1,0 +1,13 @@
+Abbreviation,Preferred_Name,Resolved_Query,PubChem_CID,MolecularFormula,CanonicalSMILES,IsomericSMILES,MolecularWeight,XLogP,TPSA,HBondDonorCount,HBondAcceptorCount,RotatableBondCount,HeavyAtomCount,PFAS_Class,Carbon_Count,Fluorine_Count,Oxygen_Count,Sulfur_Count,Nitrogen_Count,Chlorine_Count,Bromine_Count,Iodine_Count,Phosphorus_Count,Estimated_Fluorinated_Carbons,Ether_Oxygen_Count,Carboxylate_Flag,Sulfonate_Flag,Sulfonamide_Flag,Ether_Flag,Halogen_Count
+PFBA,Perfluorobutanoic acid,perfluorobutanoic acid,9777,C4HF7O2,,,214.04,2.2,37.3,1,9,2,13,PFCA,4,7,2,0,0,0,0,0,0,4,0,1,0,0,0,7
+PFHxA,Perfluorohexanoic acid,perfluorohexanoic acid,67542,C6HF11O2,,,314.05,3.6,37.3,1,13,4,19,PFCA,6,11,2,0,0,0,0,0,0,6,0,1,0,0,0,11
+PFOA,Perfluorooctanoic acid,perfluorooctanoic acid,9554,C8HF15O2,,,414.07,4.9,37.3,1,17,6,25,PFCA,8,15,2,0,0,0,0,0,0,8,0,1,0,0,0,15
+PFNA,Perfluorononanoic acid,perfluorononanoic acid,67821,C9HF17O2,,,464.08,5.6,37.3,1,19,7,28,PFCA,9,17,2,0,0,0,0,0,0,9,0,1,0,0,0,17
+PFDA,Perfluorodecanoic acid,perfluorodecanoic acid,9555,C10HF19O2,,,514.08,6.3,37.3,1,21,8,31,PFCA,10,19,2,0,0,0,0,0,0,10,0,1,0,0,0,19
+PFBS,Perfluorobutanesulfonic acid,perfluorobutanesulfonic acid,67815,C4HF9O3S,,,300.1,2.3,62.8,1,12,3,17,PFSA,4,9,3,1,0,0,0,0,0,4,0,0,1,0,0,9
+PFHxS,Perfluorohexanesulfonic acid,perfluorohexanesulfonic acid,67734,C6HF13O3S,,,400.12,3.7,62.8,1,16,5,23,PFSA,6,13,3,1,0,0,0,0,0,6,0,0,1,0,0,13
+PFOS,Perfluorooctanesulfonic acid,perfluorooctanesulfonic acid,74483,C8HF17O3S,,,500.13,5.0,62.8,1,20,7,29,PFSA,8,17,3,1,0,0,0,0,0,8,0,0,1,0,0,17
+4:2 FTS,4:2 Fluorotelomer sulfonic acid,4:2 fluorotelomer sulfonic acid,20734543,C6H5F9O3S,,,328.15,2.6,62.8,1,12,5,19,FTS,6,9,3,1,0,0,0,0,0,5,0,0,1,0,0,9
+6:2 FTS,6:2 Fluorotelomer sulfonic acid,6:2 fluorotelomer sulfonic acid,119688,C8H5F13O3S,,,428.17,3.9,62.8,1,16,7,25,FTS,8,13,3,1,0,0,0,0,0,7,0,0,1,0,0,13
+8:2 FTS,8:2 Fluorotelomer sulfonic acid,8:2 fluorotelomer sulfonic acid,3016044,C10H5F17O3S,,,528.18,5.3,62.8,1,20,9,31,FTS,10,17,3,1,0,0,0,0,0,9,0,0,1,0,0,17
+4:2 FTOH,4:2 Fluorotelomer alcohol,4:2 fluorotelomer alcohol,74883,C6H5F9O,,,264.09,3.0,20.2,1,10,4,16,FTOH,6,9,1,0,0,0,0,0,0,5,0,0,0,0,0,9

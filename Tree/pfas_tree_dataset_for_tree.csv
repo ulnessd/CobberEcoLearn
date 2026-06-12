@@ -1,0 +1,75 @@
+Abbreviation,Preferred_Name,Resolved_Query,PubChem_CID,MolecularFormula,CanonicalSMILES,IsomericSMILES,MolecularWeight,XLogP,TPSA,HBondDonorCount,HBondAcceptorCount,RotatableBondCount,HeavyAtomCount,PFAS_Class,Carbon_Count,Fluorine_Count,Oxygen_Count,Sulfur_Count,Nitrogen_Count,Chlorine_Count,Bromine_Count,Iodine_Count,Phosphorus_Count,Estimated_Fluorinated_Carbons,Ether_Oxygen_Count,Carboxylate_Flag,Sulfonate_Flag,Sulfonamide_Flag,Ether_Flag,Halogen_Count
+6:2 FTA,6:2 Fluorotelomer acrylate,6:2 fluorotelomer acrylate,87149,C11H7F13O2,,,418.15,5.5,26.3,0,15,9,26,Acrylate,11,13,2,0,0,0,0,0,0,7,2,0,0,0,0,13
+8:2 FTA,8:2 Fluorotelomer acrylate,8:2 fluorotelomer acrylate,119747,C13H7F17O2,,,518.17,6.9,26.3,0,19,11,32,Acrylate,13,17,2,0,0,0,0,0,0,9,2,0,0,0,0,17
+Perfluorobutyl methyl ether,Perfluorobutyl methyl ether,perfluorobutyl methyl ether,164514,C5H3F9O,,,250.06,3.3,9.2,0,10,3,15,Ether,5,9,1,0,0,0,0,0,0,5,1,0,0,0,1,9
+PFMOAA,Perfluoromethoxyacetic acid,PFMOAA,5125273,C3HF5O3,,,180.03,1.6,46.5,1,8,2,11,Ether acid,3,5,3,0,0,0,0,0,0,3,1,1,0,0,1,5
+PFMPA,Perfluoro-3-methoxypropanoic acid,perfluoro-3-methoxypropanoic acid,120228,C4HF7O3,,,230.04,2.3,46.5,1,10,3,14,Ether acid,4,7,3,0,0,0,0,0,0,4,1,1,0,0,1,7
+PFO2HxA,"Perfluoro-3,5-dioxahexanoic acid","perfluoro-3,5-dioxahexanoic acid",138394354,C4HF7O4,,,246.04,2.3,55.8,1,11,4,15,Ether acid,4,7,4,0,0,0,0,0,0,4,2,1,0,0,1,7
+PFMBA,Perfluoro-4-methoxybutanoic acid,perfluoro-4-methoxybutanoic acid,12498036,C5HF9O3,,,280.04,3.0,46.5,1,12,4,17,Ether acid,5,9,3,0,0,0,0,0,0,5,1,1,0,0,1,9
+PFO3OA,"Perfluoro-3,5,7-trioxaoctanoic acid","perfluoro-3,5,7-trioxaoctanoic acid",87185480,C5HF9O5,,,312.04,3.1,65.0,1,14,6,19,Ether acid,5,9,5,0,0,0,0,0,0,5,3,1,0,0,1,9
+HFPO-DA,Hexafluoropropylene oxide dimer acid,hexafluoropropylene oxide dimer acid,114481,C6HF11O3,,,330.05,3.6,46.5,1,14,4,20,Ether acid,6,11,3,0,0,0,0,0,0,6,3,0,0,0,1,11
+PFO4DA,"Perfluoro-3,5,7,9-tetraoxadecanoic acid","perfluoro-3,5,7,9-tetraoxadecanoic acid",57358057,C6HF11O6,,,378.05,3.8,74.2,1,17,8,23,Ether acid,6,11,6,0,0,0,0,0,0,6,4,1,0,0,1,11
+ADONA,ADONA,ADONA,52915299,C7H2F12O4,,,378.07,4.1,55.8,1,16,7,23,Ether acid,7,12,4,0,0,0,0,0,0,6,4,0,0,0,1,12
+Nafion BP2,Nafion byproduct 2,Nafion byproduct 2,14317645,C7H2F14O5S,,,464.13,4.2,81.2,1,19,7,27,Ether sulfonate,7,14,5,1,0,0,0,0,0,7,2,0,1,0,1,14
+9Cl-PF3ONS,9-chlorohexadecafluoro-3-oxanonane-1-sulfonic acid,9Cl-PF3ONS,22568738,C8HClF16O4S,,,532.58,5.3,72.0,1,20,9,30,Ether sulfonate,8,16,4,1,0,1,0,0,0,8,1,0,1,0,1,17
+11Cl-PF3OUdS,11-chloroeicosafluoro-3-oxaundecane-1-sulfonic acid,11-chloroeicosafluoro-3-oxaundecane-1-sulfonic acid,15099039,C10HClF20O4S,,,632.6,6.7,72.0,1,24,11,36,Ether sulfonate,10,20,4,1,0,1,0,0,0,10,1,0,1,0,1,21
+FOSA,Perfluorooctanesulfonamide,perfluorooctanesulfonamide,69785,C8H2F17NO2S,,,499.15,4.8,68.5,1,20,7,29,FOSA,8,17,2,1,1,0,0,0,0,8,0,0,0,1,0,17
+N-MeFOSA,N-Methyl perfluorooctanesulfonamide,N-methyl perfluorooctanesulfonamide,3034468,C9H4F17NO2S,,,513.17,5.2,54.6,1,20,8,30,FOSA,9,17,2,1,1,0,0,0,0,9,0,0,0,1,0,17
+N-EtFOSA,N-Ethyl perfluorooctanesulfonamide,N-EtFOSA,77797,C10H6F17NO2S,,,527.2,5.6,54.6,1,20,9,31,FOSA,10,17,2,1,1,0,0,0,0,9,0,0,0,1,0,17
+FOSE,Perfluorooctanesulfonamidoethanol,perfluorooctanesulfonamidoethanol,88096023,C10H2F21NO3S,,,615.16,6.1,74.8,2,25,9,36,FOSE,10,21,3,1,1,0,0,0,0,10,0,0,0,1,0,21
+N-EtFOSE,N-Ethyl perfluorooctanesulfonamidoethanol,N-ethyl perfluorooctanesulfonamidoethanol,88344183,C12H6F21NO3S,,,643.21,6.6,66.0,1,25,10,38,FOSE,12,21,3,1,1,0,0,0,0,11,0,0,0,1,0,21
+3:3 FTCA,3:3 Fluorotelomer carboxylic acid,3:3 fluorotelomer carboxylic acid,2774909,C6H5F7O2,,,242.09,2.5,37.3,1,9,4,15,FTCA,6,7,2,0,0,0,0,0,0,4,0,1,0,0,0,7
+5:3 FTCA,5:3 Fluorotelomer carboxylic acid,5:3 fluorotelomer carboxylic acid,14632790,C8H5F11O2,,,342.11,3.9,37.3,1,13,6,21,FTCA,8,11,2,0,0,0,0,0,0,6,0,1,0,0,0,11
+7:3 FTCA,7:3 Fluorotelomer carboxylic acid,7:3 FTCA,2783376,C10H5F15O2,,,442.12,5.2,37.3,1,17,8,27,FTCA,10,15,2,0,0,0,0,0,0,8,0,1,0,0,0,15
+9:3 FTCA,9:3 Fluorotelomer carboxylic acid,9:3 fluorotelomer carboxylic acid,23136203,C12H5F19O2,,,542.14,6.6,37.3,1,21,10,33,FTCA,12,19,2,0,0,0,0,0,0,10,0,1,0,0,0,19
+4:2 FTOH,4:2 Fluorotelomer alcohol,4:2 fluorotelomer alcohol,74883,C6H5F9O,,,264.09,3.0,20.2,1,10,4,16,FTOH,6,9,1,0,0,0,0,0,0,5,0,0,0,0,0,9
+6:2 FTOH,6:2 Fluorotelomer alcohol,6:2 fluorotelomer alcohol,69537,C8H5F13O,,,364.1,4.4,20.2,1,14,6,22,FTOH,8,13,1,0,0,0,0,0,0,7,0,0,0,0,0,13
+8:2 FTOH,8:2 Fluorotelomer alcohol,8:2 fluorotelomer alcohol,69619,C10H5F17O,,,464.12,5.7,20.2,1,18,8,28,FTOH,10,17,1,0,0,0,0,0,0,9,0,0,0,0,0,17
+10:2 FTOH,10:2 Fluorotelomer alcohol,10:2 fluorotelomer alcohol,70083,C12H5F21O,,,564.13,7.1,20.2,1,22,10,34,FTOH,12,21,1,0,0,0,0,0,0,11,0,0,0,0,0,21
+4:2 FTS,4:2 Fluorotelomer sulfonic acid,4:2 fluorotelomer sulfonic acid,20734543,C6H5F9O3S,,,328.15,2.6,62.8,1,12,5,19,FTS,6,9,3,1,0,0,0,0,0,5,0,0,1,0,0,9
+6:2 FTS,6:2 Fluorotelomer sulfonic acid,6:2 fluorotelomer sulfonic acid,119688,C8H5F13O3S,,,428.17,3.9,62.8,1,16,7,25,FTS,8,13,3,1,0,0,0,0,0,7,0,0,1,0,0,13
+8:2 FTS,8:2 Fluorotelomer sulfonic acid,8:2 fluorotelomer sulfonic acid,3016044,C10H5F17O3S,,,528.18,5.3,62.8,1,20,9,31,FTS,10,17,3,1,0,0,0,0,0,9,0,0,1,0,0,17
+10:2 FTS,10:2 Fluorotelomer sulfonic acid,10:2 fluorotelomer sulfonic acid,23136180,C12H5F21O3S,,,628.2,6.6,62.8,1,24,11,37,FTS,12,21,3,1,0,0,0,0,0,11,0,0,1,0,0,21
+6:2 FTUCA,6:2 Fluorotelomer unsaturated carboxylic acid,6:2 FTUCA,85976247,C8H2F12O2,,,358.08,3.7,37.3,1,14,5,22,FTUCA,8,12,2,0,0,0,0,0,0,6,0,1,0,0,0,12
+8:2 FTUCA,8:2 Fluorotelomer unsaturated carboxylic acid,8:2 FTUCA,71404795,C10H2F16O2,,,458.1,5.1,37.3,1,18,7,28,FTUCA,10,16,2,0,0,0,0,0,0,8,0,1,0,0,0,16
+6:2 FTMA,6:2 Fluorotelomer methacrylate,6:2 fluorotelomer methacrylate,75066,C12H9F13O2,,,432.18,5.9,26.3,0,15,9,27,Methacrylate,12,13,2,0,0,0,0,0,0,7,2,0,0,0,0,13
+8:2 FTMA,8:2 Fluorotelomer methacrylate,8:2 fluorotelomer methacrylate,160606,C14H9F17O2,,,532.19,7.2,26.3,0,19,11,33,Methacrylate,14,17,2,0,0,0,0,0,0,9,2,0,0,0,0,17
+TFA,Trifluoroacetic acid,trifluoroacetic acid,6422,C2HF3O2,,,114.02,0.9,37.3,1,5,0,7,PFCA,2,3,2,0,0,0,0,0,0,2,0,1,0,0,0,3
+PFPrA,Perfluoropropionic acid,perfluoropropionic acid,62356,C3HF5O2,,,164.03,1.6,37.3,1,7,1,10,PFCA,3,5,2,0,0,0,0,0,0,3,2,0,0,0,0,5
+PFBA,Perfluorobutanoic acid,perfluorobutanoic acid,9777,C4HF7O2,,,214.04,2.2,37.3,1,9,2,13,PFCA,4,7,2,0,0,0,0,0,0,4,0,1,0,0,0,7
+PFPeA,Perfluoropentanoic acid,perfluoropentanoic acid,75921,C5HF9O2,,,264.05,2.9,37.3,1,11,3,16,PFCA,5,9,2,0,0,0,0,0,0,5,0,1,0,0,0,9
+PFHxA,Perfluorohexanoic acid,perfluorohexanoic acid,67542,C6HF11O2,,,314.05,3.6,37.3,1,13,4,19,PFCA,6,11,2,0,0,0,0,0,0,6,0,1,0,0,0,11
+PFHpA,Perfluoroheptanoic acid,perfluoroheptanoic acid,67818,C7HF13O2,,,364.06,4.3,37.3,1,15,5,22,PFCA,7,13,2,0,0,0,0,0,0,7,0,1,0,0,0,13
+PFOA,Perfluorooctanoic acid,perfluorooctanoic acid,9554,C8HF15O2,,,414.07,4.9,37.3,1,17,6,25,PFCA,8,15,2,0,0,0,0,0,0,8,0,1,0,0,0,15
+PFNA,Perfluorononanoic acid,perfluorononanoic acid,67821,C9HF17O2,,,464.08,5.6,37.3,1,19,7,28,PFCA,9,17,2,0,0,0,0,0,0,9,0,1,0,0,0,17
+PFDA,Perfluorodecanoic acid,perfluorodecanoic acid,9555,C10HF19O2,,,514.08,6.3,37.3,1,21,8,31,PFCA,10,19,2,0,0,0,0,0,0,10,0,1,0,0,0,19
+PFUnDA,Perfluoroundecanoic acid,perfluoroundecanoic acid,77222,C11HF21O2,,,564.09,6.9,37.3,1,23,9,34,PFCA,11,21,2,0,0,0,0,0,0,11,0,1,0,0,0,21
+PFDoDA,Perfluorododecanoic acid,perfluorododecanoic acid,67545,C12HF23O2,,,614.1,7.6,37.3,1,25,10,37,PFCA,12,23,2,0,0,0,0,0,0,12,0,1,0,0,0,23
+PFTrDA,Perfluorotridecanoic acid,perfluorotridecanoic acid,3018355,C13HF25O2,,,664.1,8.3,37.3,1,27,11,40,PFCA,13,25,2,0,0,0,0,0,0,13,0,1,0,0,0,25
+PFTeDA,Perfluorotetradecanoic acid,perfluorotetradecanoic acid,67822,C14HF27O2,,,714.11,9.0,37.3,1,29,12,43,PFCA,14,27,2,0,0,0,0,0,0,14,0,1,0,0,0,27
+PFHxDA,Perfluorohexadecanoic acid,perfluorohexadecanoic acid,106027,C16HF31O2,,,814.13,10.3,37.3,1,33,14,49,PFCA,16,31,2,0,0,0,0,0,0,16,0,1,0,0,0,31
+PFOcDA,Perfluorooctadecanoic acid,perfluorooctadecanoic acid,167547,C18HF35O2,,,914.1,11.6,37.3,1,37,16,55,PFCA,18,35,2,0,0,0,0,0,0,18,0,1,0,0,0,35
+PFMS,Perfluoromethanesulfonic acid,perfluoromethanesulfonic acid,62406,CHF3O3S,,,150.08,0.3,62.8,1,6,0,8,PFSA,1,3,3,1,0,0,0,0,0,1,0,0,1,0,0,3
+PFEtS,Perfluoroethanesulfonic acid,perfluoroethanesulfonic acid,10219841,C2HF5O3S,,,200.09,1.0,62.8,1,8,1,11,PFSA,2,5,3,1,0,0,0,0,0,2,0,0,1,0,0,5
+PFPrS,Perfluoropropanesulfonic acid,perfluoropropanesulfonic acid,9859771,C3HF7O3S,,,250.09,1.7,62.8,1,10,2,14,PFSA,3,7,3,1,0,0,0,0,0,3,0,0,1,0,0,7
+PFBS,Perfluorobutanesulfonic acid,perfluorobutanesulfonic acid,67815,C4HF9O3S,,,300.1,2.3,62.8,1,12,3,17,PFSA,4,9,3,1,0,0,0,0,0,4,0,0,1,0,0,9
+PFPeS,Perfluoropentanesulfonic acid,perfluoropentanesulfonic acid,75922,C5HF11O3S,,,350.11,3.0,62.8,1,14,4,20,PFSA,5,11,3,1,0,0,0,0,0,5,0,0,1,0,0,11
+PFHxS,Perfluorohexanesulfonic acid,perfluorohexanesulfonic acid,67734,C6HF13O3S,,,400.12,3.7,62.8,1,16,5,23,PFSA,6,13,3,1,0,0,0,0,0,6,0,0,1,0,0,13
+PFHpS,Perfluoroheptanesulfonic acid,perfluoroheptanesulfonic acid,67820,C7HF15O3S,,,450.12,4.3,62.8,1,18,6,26,PFSA,7,15,3,1,0,0,0,0,0,7,0,0,1,0,0,15
+PFOS,Perfluorooctanesulfonic acid,perfluorooctanesulfonic acid,74483,C8HF17O3S,,,500.13,5.0,62.8,1,20,7,29,PFSA,8,17,3,1,0,0,0,0,0,8,0,0,1,0,0,17
+PFNS,Perfluorononanesulfonic acid,perfluorononanesulfonic acid,86998,C9HF19O3S,,,550.14,5.7,62.8,1,22,8,32,PFSA,9,19,3,1,0,0,0,0,0,9,0,0,1,0,0,19
+PFDS,Perfluorodecanesulfonic acid,perfluorodecanesulfonic acid,67636,C10HF21O3S,,,600.15,6.4,62.8,1,24,9,35,PFSA,10,21,3,1,0,0,0,0,0,10,0,0,1,0,0,21
+PFDoS,Perfluorododecanesulfonic acid,perfluorododecanesulfonic acid,3018866,C12HF25O3S,,,700.16,7.7,62.8,1,28,11,41,PFSA,12,25,3,1,0,0,0,0,0,12,0,0,1,0,0,25
+Perfluorobutane,Perfluorobutane,perfluorobutane,9638,C4F10,,,238.03,3.8,0.0,0,10,1,14,Perfluoroalkane,4,10,0,0,0,0,0,0,0,4,0,0,0,0,0,10
+Perfluorohexane,Perfluorohexane,perfluorohexane,9639,C6F14,,,338.04,5.1,0.0,0,14,3,20,Perfluoroalkane,6,14,0,0,0,0,0,0,0,6,0,0,0,0,0,14
+Perfluorooctane,Perfluorooctane,perfluorooctane,9387,C8F18,,,438.06,6.5,0.0,0,18,5,26,Perfluoroalkane,8,18,0,0,0,0,0,0,0,8,0,0,0,0,0,18
+Perfluorodecalin,Perfluorodecalin,perfluorodecalin,9386,C10F18,,,462.08,5.6,0.0,0,18,0,28,Perfluoroalkane,10,18,0,0,0,0,0,0,0,10,0,0,0,0,0,18
+PFHxBr,Perfluorohexyl bromide,perfluorohexyl bromide,92755,C6BrF13,,,398.95,5.6,0.0,0,13,4,20,Perfluoroalkyl bromide,6,13,0,0,0,0,1,0,0,6,0,0,0,0,0,14
+PFOBr,Perfluorooctyl bromide,perfluorooctyl bromide,9873,C8BrF17,,,498.96,6.9,0.0,0,17,6,26,Perfluoroalkyl bromide,8,17,0,0,0,0,1,0,0,8,0,0,0,0,0,18
+PFHxI,Perfluorohexyl iodide,perfluorohexyl iodide,67733,C6F13I,,,445.95,5.4,0.0,0,13,4,20,Perfluoroalkyl iodide,6,13,0,0,0,0,0,1,0,6,0,0,0,0,0,14
+PFOI,Perfluorooctyl iodide,perfluorooctyl iodide,10491,C8F17I,,,545.96,6.8,0.0,0,17,6,26,Perfluoroalkyl iodide,8,17,0,0,0,0,0,1,0,8,0,0,0,0,0,18
+PFDAI,Perfluorodecyl iodide,perfluorodecyl iodide,67920,C10F21I,,,645.98,8.1,0.0,0,21,8,32,Perfluoroalkyl iodide,10,21,0,0,0,0,0,1,0,10,0,0,0,0,0,22
+Perfluorotripropylamine,Perfluorotripropylamine,perfluorotripropylamine,67645,C9F21N,,,521.07,7.9,3.2,0,22,6,31,Perfluoroamine,9,21,0,0,1,0,0,0,0,9,0,0,0,0,0,21
+Perfluorotributylamine,Perfluorotributylamine,perfluorotributylamine,9397,C12F27N,,,671.09,9.9,3.2,0,28,9,40,Perfluoroamine,12,27,0,0,1,0,0,0,0,12,0,0,0,0,0,27
+6:2 diPAP,6:2 Fluorotelomer phosphate diester,6:2 fluorotelomer phosphate diester,14550408,C16H9F26O4P,,,790.17,8.6,55.8,1,30,16,47,Phosphate ester,16,26,4,0,0,0,0,0,1,14,0,0,0,0,0,26
+8:2 diPAP,8:2 Fluorotelomer phosphate diester,8:2 fluorotelomer phosphate diester,3022253,C20H9F34O4P,,,990.2,11.3,55.8,1,38,20,59,Phosphate ester,20,34,4,0,0,0,0,0,1,18,0,0,0,0,0,34

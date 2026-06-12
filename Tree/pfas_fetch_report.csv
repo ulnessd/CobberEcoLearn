@@ -1,0 +1,84 @@
+Abbreviation,Preferred_Name,Status,Resolved_Query,CID,Message
+TFA,Trifluoroacetic acid,resolved,trifluoroacetic acid,6422,ok
+PFPrA,Perfluoropropionic acid,resolved,perfluoropropionic acid,62356,ok
+PFBA,Perfluorobutanoic acid,resolved,perfluorobutanoic acid,9777,ok
+PFPeA,Perfluoropentanoic acid,resolved,perfluoropentanoic acid,75921,ok
+PFHxA,Perfluorohexanoic acid,resolved,perfluorohexanoic acid,67542,ok
+PFHpA,Perfluoroheptanoic acid,resolved,perfluoroheptanoic acid,67818,ok
+PFOA,Perfluorooctanoic acid,resolved,perfluorooctanoic acid,9554,ok
+PFNA,Perfluorononanoic acid,resolved,perfluorononanoic acid,67821,ok
+PFDA,Perfluorodecanoic acid,resolved,perfluorodecanoic acid,9555,ok
+PFUnDA,Perfluoroundecanoic acid,resolved,perfluoroundecanoic acid,77222,ok
+PFDoDA,Perfluorododecanoic acid,resolved,perfluorododecanoic acid,67545,ok
+PFTrDA,Perfluorotridecanoic acid,resolved,perfluorotridecanoic acid,3018355,ok
+PFTeDA,Perfluorotetradecanoic acid,resolved,perfluorotetradecanoic acid,67822,ok
+PFHxDA,Perfluorohexadecanoic acid,resolved,perfluorohexadecanoic acid,106027,ok
+PFOcDA,Perfluorooctadecanoic acid,resolved,perfluorooctadecanoic acid,167547,ok
+PFMS,Perfluoromethanesulfonic acid,resolved,perfluoromethanesulfonic acid,62406,ok
+PFEtS,Perfluoroethanesulfonic acid,resolved,perfluoroethanesulfonic acid,10219841,ok
+PFPrS,Perfluoropropanesulfonic acid,resolved,perfluoropropanesulfonic acid,9859771,ok
+PFBS,Perfluorobutanesulfonic acid,resolved,perfluorobutanesulfonic acid,67815,ok
+PFPeS,Perfluoropentanesulfonic acid,resolved,perfluoropentanesulfonic acid,75922,ok
+PFHxS,Perfluorohexanesulfonic acid,resolved,perfluorohexanesulfonic acid,67734,ok
+PFHpS,Perfluoroheptanesulfonic acid,resolved,perfluoroheptanesulfonic acid,67820,ok
+PFOS,Perfluorooctanesulfonic acid,resolved,perfluorooctanesulfonic acid,74483,ok
+PFNS,Perfluorononanesulfonic acid,resolved,perfluorononanesulfonic acid,86998,ok
+PFDS,Perfluorodecanesulfonic acid,resolved,perfluorodecanesulfonic acid,67636,ok
+PFDoS,Perfluorododecanesulfonic acid,resolved,perfluorododecanesulfonic acid,3018866,ok
+4:2 FTS,4:2 Fluorotelomer sulfonic acid,resolved,4:2 fluorotelomer sulfonic acid,20734543,ok
+6:2 FTS,6:2 Fluorotelomer sulfonic acid,resolved,6:2 fluorotelomer sulfonic acid,119688,ok
+8:2 FTS,8:2 Fluorotelomer sulfonic acid,resolved,8:2 fluorotelomer sulfonic acid,3016044,ok
+10:2 FTS,10:2 Fluorotelomer sulfonic acid,resolved,10:2 fluorotelomer sulfonic acid,23136180,ok
+4:2 FTOH,4:2 Fluorotelomer alcohol,resolved,4:2 fluorotelomer alcohol,74883,ok
+6:2 FTOH,6:2 Fluorotelomer alcohol,resolved,6:2 fluorotelomer alcohol,69537,ok
+8:2 FTOH,8:2 Fluorotelomer alcohol,resolved,8:2 fluorotelomer alcohol,69619,ok
+10:2 FTOH,10:2 Fluorotelomer alcohol,resolved,10:2 fluorotelomer alcohol,70083,ok
+3:3 FTCA,3:3 Fluorotelomer carboxylic acid,resolved,3:3 fluorotelomer carboxylic acid,2774909,ok
+5:3 FTCA,5:3 Fluorotelomer carboxylic acid,resolved,5:3 fluorotelomer carboxylic acid,14632790,ok
+7:3 FTCA,7:3 Fluorotelomer carboxylic acid,resolved,7:3 FTCA,2783376,ok
+9:3 FTCA,9:3 Fluorotelomer carboxylic acid,resolved,9:3 fluorotelomer carboxylic acid,23136203,ok
+6:2 FTUCA,6:2 Fluorotelomer unsaturated carboxylic acid,resolved,6:2 FTUCA,85976247,ok
+8:2 FTUCA,8:2 Fluorotelomer unsaturated carboxylic acid,resolved,8:2 FTUCA,71404795,ok
+FOSA,Perfluorooctanesulfonamide,resolved,perfluorooctanesulfonamide,69785,ok
+N-MeFOSA,N-Methyl perfluorooctanesulfonamide,resolved,N-methyl perfluorooctanesulfonamide,3034468,ok
+N-EtFOSA,N-Ethyl perfluorooctanesulfonamide,resolved,N-EtFOSA,77797,ok
+FOSE,Perfluorooctanesulfonamidoethanol,resolved,perfluorooctanesulfonamidoethanol,88096023,ok
+N-MeFOSE,N-Methyl perfluorooctanesulfonamidoethanol,unresolved,,,no query names tried
+N-EtFOSE,N-Ethyl perfluorooctanesulfonamidoethanol,resolved,N-ethyl perfluorooctanesulfonamidoethanol,88344183,ok
+HFPO-DA,Hexafluoropropylene oxide dimer acid,resolved,hexafluoropropylene oxide dimer acid,114481,ok
+ADONA,ADONA,resolved,ADONA,52915299,ok
+PFMOAA,Perfluoromethoxyacetic acid,resolved,PFMOAA,5125273,ok
+PFECA B,Perfluoro-2-methoxyacetic acid,duplicate,perfluoro-2-methoxyacetic acid,5125273,duplicate CID 5125273; not added to dataset
+PFO2HxA,"Perfluoro-3,5-dioxahexanoic acid",resolved,"perfluoro-3,5-dioxahexanoic acid",138394354,ok
+PFO3OA,"Perfluoro-3,5,7-trioxaoctanoic acid",resolved,"perfluoro-3,5,7-trioxaoctanoic acid",87185480,ok
+Nafion BP2,Nafion byproduct 2,resolved,Nafion byproduct 2,14317645,ok
+11Cl-PF3OUdS,11-chloroeicosafluoro-3-oxaundecane-1-sulfonic acid,resolved,11-chloroeicosafluoro-3-oxaundecane-1-sulfonic acid,15099039,ok
+9Cl-PF3ONS,9-chlorohexadecafluoro-3-oxanonane-1-sulfonic acid,resolved,9Cl-PF3ONS,22568738,ok
+PFPE-1,Perfluoropolyether alcohol,unresolved,,,no query names tried
+Perfluorobutyl methyl ether,Perfluorobutyl methyl ether,resolved,perfluorobutyl methyl ether,164514,ok
+Perfluorohexyl ethyl ether,Perfluorohexyl ethyl ether,unresolved,,,no query names tried
+PFHxI,Perfluorohexyl iodide,resolved,perfluorohexyl iodide,67733,ok
+PFOI,Perfluorooctyl iodide,resolved,perfluorooctyl iodide,10491,ok
+PFDAI,Perfluorodecyl iodide,resolved,perfluorodecyl iodide,67920,ok
+PFHxBr,Perfluorohexyl bromide,resolved,perfluorohexyl bromide,92755,ok
+PFOBr,Perfluorooctyl bromide,resolved,perfluorooctyl bromide,9873,ok
+Perfluorobutane,Perfluorobutane,resolved,perfluorobutane,9638,ok
+Perfluorohexane,Perfluorohexane,resolved,perfluorohexane,9639,ok
+Perfluorooctane,Perfluorooctane,resolved,perfluorooctane,9387,ok
+Perfluorodecalin,Perfluorodecalin,resolved,perfluorodecalin,9386,ok
+Perfluorotributylamine,Perfluorotributylamine,resolved,perfluorotributylamine,9397,ok
+Perfluorotripropylamine,Perfluorotripropylamine,resolved,perfluorotripropylamine,67645,ok
+6:2 FTA,6:2 Fluorotelomer acrylate,resolved,6:2 fluorotelomer acrylate,87149,ok
+8:2 FTA,8:2 Fluorotelomer acrylate,resolved,8:2 fluorotelomer acrylate,119747,ok
+6:2 FTMA,6:2 Fluorotelomer methacrylate,resolved,6:2 fluorotelomer methacrylate,75066,ok
+8:2 FTMA,8:2 Fluorotelomer methacrylate,resolved,8:2 fluorotelomer methacrylate,160606,ok
+6:2 diPAP,6:2 Fluorotelomer phosphate diester,resolved,6:2 fluorotelomer phosphate diester,14550408,ok
+8:2 diPAP,8:2 Fluorotelomer phosphate diester,resolved,8:2 fluorotelomer phosphate diester,3022253,ok
+6:2/8:2 diPAP,6:2/8:2 Fluorotelomer phosphate diester,unresolved,,,no query names tried
+PFMBA,Perfluoro-4-methoxybutanoic acid,resolved,perfluoro-4-methoxybutanoic acid,12498036,ok
+PFMPA,Perfluoro-3-methoxypropanoic acid,resolved,perfluoro-3-methoxypropanoic acid,120228,ok
+PFEEA,Perfluoroethoxyethanoic acid,unresolved,,,no query names tried
+PFPrOPrA,Perfluoropropoxypropanoic acid,unresolved,,,no query names tried
+PFO4DA,"Perfluoro-3,5,7,9-tetraoxadecanoic acid",resolved,"perfluoro-3,5,7,9-tetraoxadecanoic acid",57358057,ok
+6:2 Cl-PFESA,6:2 chlorinated polyfluoroether sulfonic acid,duplicate,6:2 Cl-PFESA,22568738,duplicate CID 22568738; not added to dataset
+8:2 Cl-PFESA,8:2 chlorinated polyfluoroether sulfonic acid,duplicate,8:2 Cl-PFESA,15099039,duplicate CID 15099039; not added to dataset
